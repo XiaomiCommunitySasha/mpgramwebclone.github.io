@@ -3,6 +3,7 @@
 Lightweight Telegram web client based on MadelineProto.
 
 Test instance is available at <a href="https://mp.nnchan.ru/">https://mp.nnchan.ru</a> (not guaranteed to run a stable version).
+Тут он на: <a href="https://xiaomicommunitysasha.github.io/mpgramwebclone.github.io/login.php">0</a>
 
 _It is highly recommended to run your own instance (read on)._
 
